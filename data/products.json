@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "price": 999.99,
+    "description": "A high-performance laptop with 16GB RAM and 512GB SSD.",
+    "image": "https://via.placeholder.com/400?text=Laptop",
+    "categoryId": 1
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "price": 699.99,
+    "description": "A sleek smartphone with a 6.5-inch display and 128GB storage.",
+    "image": "https://via.placeholder.com/400?text=Smartphone",
+    "categoryId": 1
+  },
+  {
+    "id": 3,
+    "name": "Wireless Headphones",
+    "price": 149.99,
+    "description": "Noise-cancelling wireless headphones with up to 30 hours of battery life.",
+    "image": "https://via.placeholder.com/400?text=Wireless+Headphones",
+    "categoryId": 2
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch",
+    "price": 199.99,
+    "description": "A smartwatch with fitness tracking, GPS, and heart rate monitoring.",
+    "image": "https://via.placeholder.com/400?text=Smartwatch",
+    "categoryId": 2
+  },
+  {
+    "id": 5,
+    "name": "4K TV",
+    "price": 499.99,
+    "description": "A 50-inch 4K Ultra HD TV with smart features and HDR support.",
+    "image": "https://via.placeholder.com/400?text=4K+TV",
+    "categoryId": 3
+  },
+  {
+    "id": 6,
+    "name": "Bluetooth Speaker",
+    "price": 79.99,
+    "description": "Portable Bluetooth speaker with high-quality sound and waterproof design.",
+    "image": "https://via.placeholder.com/400?text=Bluetooth+Speaker",
+    "categoryId": 3
+  },
+  {
+    "id": 7,
+    "name": "Digital Camera",
+    "price": 599.99,
+    "description": "A 24MP digital camera with a 3-inch LCD screen and 10x optical zoom.",
+    "image": "https://via.placeholder.com/400?text=Digital+Camera",
+    "categoryId": 4
+  },
+  {
+    "id": 8,
+    "name": "Tablet",
+    "price": 399.99,
+    "description": "A 10-inch tablet with 64GB storage and a powerful quad-core processor.",
+    "image": "https://via.placeholder.com/400?text=Tablet",
+    "categoryId": 1
+  },
+  {
+    "id": 9,
+    "name": "Gaming Console",
+    "price": 299.99,
+    "description": "A popular gaming console with 1TB storage and access to a vast game library.",
+    "image": "https://via.placeholder.com/400?text=Gaming+Console",
+    "categoryId": 1
+  },
+  {
+    "id": 10,
+    "name": "Smart Home Hub",
+    "price": 129.99,
+    "description": "A smart home hub to control all your connected devices from one place.",
+    "image": "https://via.placeholder.com/400?text=Smart+Home+Hub",
+    "categoryId": 3
+  },
+  {
+    "id": 11,
+    "name": "Electric Toothbrush",
+    "price": 89.99,
+    "description": "An electric toothbrush with multiple cleaning modes and a 2-minute timer.",
+    "image": "https://via.placeholder.com/400?text=Electric+Toothbrush",
+    "categoryId": 5
+  },
+  {
+    "id": 12,
+    "name": "Portable Charger",
+    "price": 39.99,
+    "description": "A compact portable charger with 10,000mAh capacity for fast charging on the go.",
+    "image": "https://via.placeholder.com/400?text=Portable+Charger",
+    "categoryId": 2
+  },
+  {
+    "id": 13,
+    "name": "Fitness Tracker",
+    "price": 79.99,
+    "description": "A fitness tracker with heart rate monitoring, sleep tracking, and step counting.",
+    "image": "https://via.placeholder.com/400?text=Fitness+Tracker",
+    "categoryId": 5
+  },
+  {
+    "id": 14,
+    "name": "HD Webcam",
+    "price": 69.99,
+    "description": "An HD webcam with built-in microphone for clear video calls and recordings.",
+    "image": "https://via.placeholder.com/400?text=HD+Webcam",
+    "categoryId": 4
+  },
+  {
+    "id": 15,
+    "name": "Electric Kettle",
+    "price": 49.99,
+    "description": "An electric kettle with quick boiling and an automatic shut-off feature.",
+    "image": "https://via.placeholder.com/400?text=Electric+Kettle",
+    "categoryId": 6
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Electronics"
+  },
+  {
+    "id": 2,
+    "name": "Accessories"
+  },
+  {
+    "id": 3,
+    "name": "Home Appliances"
+  },
+  {
+    "id": 4,
+    "name": "Computer Accessories"
+  },
+  {
+    "id": 5,
+    "name": "Health & Personal Care"
+  },
+  {
+    "id": 6,
+    "name": "Kitchen Appliances"
+  }
+]
